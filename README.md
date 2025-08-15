@@ -19,6 +19,8 @@ However, **few people spend all of their time at home**. This is Stephen’s poi
 This line of thinking has inspired several branches of my research program:
 
 ### 1. **Farm huts and seasonal labor movement**
+<img src="TMT_Farms.png" alt="Map of farm huts and villages along the Thailand–Myanmar border" align="left" width="350" style="margin-right:15px;">
+
 In Southeast Asia, many farmers have **farm huts** near their fields, where they stay during peak agricultural labor periods (often easier than returning home daily). These periods often coincide with seasonal peaks in disease transmission — for example, **malaria season overlaps with rice farming season**.  
 
 One approach I’ve taken is to map farm huts in study villages (from our [tMDA work](https://github.com/DMParker1/tmda-program)), link them to their respective households, and look for spatial and temporal patterns in malaria infections that incorporate both home and farm hut locations.  
