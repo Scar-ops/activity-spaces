@@ -31,7 +31,7 @@ One approach I’ve taken is to map farm huts in study villages (from our [tMDA 
 - Parker, D.M., Landier, J., von Seidlein, L. et al. (2016). *Limitations of malaria reactive case detection in an area of low and unstable transmission on the Myanmar–Thailand border.* **Malar J** 15, 571. [https://doi.org/10.1186/s12936-016-1631-9](https://doi.org/10.1186/s12936-016-1631-9)
 
 <p>
-  <img src="media/TMT_Farms2.png" alt="Additional farm hut and village map example" width="520">
+  <img src="media/TMT_Farms2.png" alt="Additional farm hut and village map example" width="900">
 </p>
 
 ---
