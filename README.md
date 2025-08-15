@@ -24,7 +24,7 @@ In Southeast Asia, many farmers have **farm huts** near their fields, where they
 
 <figure style="margin-bottom:20px; margin-top:10px;">
   <img src="media/SeasonalActivities.png" alt="Seasonal activities and disease timing" width="900">
-  <figcaption style="font-style: italic; font-weight: bold; text-align: center; margin-top:5px;">
+  <figcaption style="font-family: Calibri, sans-serif; font-size: 10px; font-style: italic; text-align: center; margin-top:6px; margin-bottom:18px;">
     Figure 1. Agricultural activities by season in malarious rural areas on the Thailand-Myanmar border. Malaria tends to peak in July-August each year, and occasionally there is a second peak in November.
   </figcaption>
 </figure>
@@ -33,9 +33,12 @@ One approach I’ve taken is to map farm huts in study villages (from our [tMDA 
 
 - Parker, D.M., Landier, J., von Seidlein, L. et al. (2016). *Limitations of malaria reactive case detection in an area of low and unstable transmission on the Myanmar–Thailand border.* **Malar J** 15, 571. [https://doi.org/10.1186/s12936-016-1631-9](https://doi.org/10.1186/s12936-016-1631-9)
 
-<p>
+<figure style="margin-bottom:20px; margin-top:10px;">
   <img src="media/TMT_Farms2.png" alt="Additional farm hut and village map example" width="900">
-</p>
+  <figcaption style="font-family: Calibri, sans-serif; font-size: 10px; font-style: italic; text-align: center; margin-top:6px; margin-bottom:18px;">
+    Figure 2. Example of mapped farm huts linked to households for spatial epidemiological analysis.
+  </figcaption>
+</figure>
 
 ---
 
@@ -44,9 +47,12 @@ Earth observation datasets (often rasters) are usually linked to individuals via
 
 - Rattanavong, S., Dubot-Pérès, A., Mayxay, M., Vongsouvath, M., Lee, S.J., et al. (2020). *Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): A retrospective analysis.* **PLOS Negl Trop Dis** 14(5): e0008333. [https://doi.org/10.1371/journal.pntd.0008333](https://doi.org/10.1371/journal.pntd.0008333)
 
-<p>
+<figure style="margin-bottom:20px; margin-top:10px;">
   <img src="https://journals.plos.org/plosntds/article/figure/image?size=large&id=10.1371/journal.pntd.0008333.g002" alt="PLOS NTDs JEV/CNS spatial epidemiology figure" width="600">
-</p>
+  <figcaption style="font-family: Calibri, sans-serif; font-size: 10px; font-style: italic; text-align: center; margin-top:6px; margin-bottom:18px;">
+    Figure 3. Environmental indices for villages with study patient homes for the duration of the study period (January 2003 through August 2011) for all study patient villages, non study patient villages in the study area, and for major diagnoses (JEV = Japanese Encephalitis virus; Crypto = cryptococcal infection; ST = scrub typhus; MT = murine typhus; dengue = Dengue virus; lepto = Leptospira spp. infection).
+  </figcaption>
+</figure>
 
 - Roberts, T., Parker, D.M., Bulterys, P.L., Rattanavong, S., Elliott, I., et al. (2021). *A spatio-temporal analysis of scrub typhus and murine typhus in Laos: implications from changing landscapes and climate.* **PLOS Negl Trop Dis** 15(8): e0009685. [https://doi.org/10.1371/journal.pntd.0009685](https://doi.org/10.1371/journal.pntd.0009685)
 
@@ -59,9 +65,12 @@ Another approach is to measure actual human movement directly using **GPS logger
 
 - Tun, S.T.T., Min, M.C., Aguas, R. et al. (2023). *Human movement patterns of farmers and forest workers from the Thailand–Myanmar border* [version 2; peer review: 2 approved, 2 approved with reservations]. **Wellcome Open Res** 6:148. [https://doi.org/10.12688/wellcomeopenres.16784.2](https://doi.org/10.12688/wellcomeopenres.16784.2)
 
-<p>
+<figure style="margin-bottom:20px; margin-top:10px;">
   <img src="media/GPS%20Loggers.png" alt="Map of GPS tracks and activity spaces" width="600">
-</p>
+  <figcaption style="font-family: Calibri, sans-serif; font-size: 10px; font-style: italic; text-align: center; margin-top:6px; margin-bottom:18px;">
+    Figure 4. GPS tracks from cohort participants showing activity spaces beyond household locations.
+  </figcaption>
+</figure>
 
 ---
 
@@ -70,11 +79,13 @@ GPS loggers are great for detailed studies, but they cover few people. To scale 
 
 - Haileselassie, W., Getnet, A., Solomon, H. et al. (2022). *Mobile phone handover data for measuring and analysing human population mobility in Western Ethiopia: implication for malaria disease epidemiology and elimination efforts.* **Malar J** 21, 323. [https://doi.org/10.1186/s12936-022-04337-w](https://doi.org/10.1186/s12936-022-04337-w)
 
-<p>
-  <!-- Stacked (one on top of the other). True overlay isn't reliably supported in GitHub README HTML. -->
-  <img src="https://malariajournal.biomedcentral.com/counter/pdf/10.1186/s12936-022-04337-w/MediaObjects/12936_2022_4337_Fig7_HTML.png" alt="Mobility by time of day vs vector biting (Fig 7)" width="640"><br>
-  <img src="https://malariajournal.biomedcentral.com/counter/pdf/10.1186/s12936-022-04337-w/MediaObjects/12936_2022_4337_Fig12_HTML.png" alt="Spatial patterns/heatmaps (Fig 12)" width="640">
-</p>
+<figure style="margin-bottom:20px; margin-top:10px;">
+  <img src="media/Fig7.png" alt="Mobility by time of day vs vector biting (Fig 7)" width="640"><br>
+  <img src="media/Fig12.png" alt="Spatial patterns/heatmaps (Fig 12)" width="640">
+  <figcaption style="font-family: Calibri, sans-serif; font-size: 10px; font-style: italic; text-align: center; margin-top:6px; margin-bottom:18px;">
+    Figure 5. Mobility patterns in relation to mosquito biting times and spatial heatmaps of movement derived from mobile phone handover data.
+  </figcaption>
+</figure>
 
 ---
 
