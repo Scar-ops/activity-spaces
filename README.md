@@ -49,7 +49,7 @@ Earth observation datasets (often rasters) are usually linked to individuals via
 
 ### 3. **GPS logger studies**
 
-<img src="media/GPS_logger.png" alt="GPS logger device" align="right" width="200" style="margin-left:15px;">
+<img src="media/GPS_logger.png" alt="GPS logger device" align="right" width="250" style="margin-left:15px;">
 
 Another approach is to measure actual human movement directly using **GPS loggers** in cohort studies. This is logistically complex but provides rich movement data.  
 Analysis for one such study — *Human movement patterns of farmers and forest workers from the Thailand–Myanmar border* — is documented in a repository built and maintained by my student and collaborator (S.T.T Tun): [HumMovPatt](https://github.com/SaiTheinThanTun/HumMovPatt).
