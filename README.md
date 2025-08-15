@@ -22,12 +22,13 @@ This line of thinking has inspired several branches of my research program:
 
 In Southeast Asia, many farmers have **farm huts** near their fields, where they stay during peak agricultural labor periods (often easier than returning home daily). These periods often coincide with seasonal peaks in disease transmission — for example, **malaria season overlaps with rice farming season**.
 
-<figure style="margin-top:0; margin-bottom:0;">
-  <img src="media/SeasonalActivities.png" alt="Seasonal activities and disease timing" width="900">
-  <figcaption style="font-family: Calibri, sans-serif; font-size: 10px; font-style: italic; text-align: center; margin-top:0; padding-top:2px; margin-bottom:30px;">
+<div style="margin-bottom:30px;">
+  <img src="media/SeasonalActivities.png" alt="Seasonal activities and disease timing" width="900"><br>
+  <span style="font-family: Calibri, sans-serif; font-size: 10px; font-style: italic; display:block; text-align:center; margin-top:2px;">
     Figure 1. Agricultural activities by season in malarious rural areas on the Thailand-Myanmar border. Malaria tends to peak in July-August each year, and occasionally there is a second peak in November.
-  </figcaption>
-</figure>
+  </span>
+</div>
+
 
 
 
