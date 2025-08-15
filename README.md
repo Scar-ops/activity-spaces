@@ -66,8 +66,10 @@ GPS loggers are great for detailed studies, but they cover few people. To scale 
 
 - Haileselassie, W., Getnet, A., Solomon, H. et al. (2022). *Mobile phone handover data for measuring and analysing human population mobility in Western Ethiopia: implication for malaria disease epidemiology and elimination efforts.* **Malar J** 21, 323. [https://doi.org/10.1186/s12936-022-04337-w](https://doi.org/10.1186/s12936-022-04337-w)
 
-![Mobility by time of day vs vector biting (Fig 7) and Spatial patterns/heatmaps (Fig 12)](media/Fig7.png)  
-**Figure 5.** *Mobility patterns in relation to mosquito biting times and spatial heatmaps of movement derived from mobile phone handover data.*
+![Mobility by time of day vs vector biting (Fig 7)](media/12936_2022_4337_Fig7_HTML.png)  
+![Spatial patterns/heatmaps (Fig 11)](media/12936_2022_4337_Fig11_HTML.png)  
+**Figure 5.** *Human mobility patterns in relation to mosquito biting times (from human landing catches) in Gambella Region, Ethiopia. Human mobility derived from mobile phone handover data, indicating plenty of movement during times when mosquito vectors are active.*
+
 
 ---
 
