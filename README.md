@@ -19,28 +19,47 @@ However, **few people spend all of their time at home**. This is Stephen’s poi
 This line of thinking has inspired several branches of my research program:
 
 ### 1. **Farm huts and seasonal labor movement**
+<img src="TMT_Farms.png" alt="Map of farm huts and villages along the Thailand–Myanmar border" align="left" width="300" style="margin-right:15px;">
 
-In Southeast Asia, many farmers have **farm huts** near their fields, where they stay during peak agricultural labor periods (often easier than returning home daily). These periods often coincide with seasonal peaks in disease transmission — for example, **malaria season overlaps with rice farming season**.  
+In Southeast Asia, many farmers have **farm huts** near their fields, where they stay during peak agricultural labor periods (often easier than returning home daily). These periods often coincide with seasonal peaks in disease transmission — for example, **malaria season overlaps with rice farming season**.
+
+<p>
+  <img src="media/SeasonalActivities.png" alt="Seasonal activities and disease timing" width="520">
+</p>
 
 One approach I’ve taken is to map farm huts in study villages (from our [tMDA work](https://github.com/DMParker1/tmda-program)), link them to their respective households, and look for spatial and temporal patterns in malaria infections that incorporate both home and farm hut locations.  
 
 - Parker, D.M., Landier, J., von Seidlein, L. et al. (2016). *Limitations of malaria reactive case detection in an area of low and unstable transmission on the Myanmar–Thailand border.* **Malar J** 15, 571. [https://doi.org/10.1186/s12936-016-1631-9](https://doi.org/10.1186/s12936-016-1631-9)
+
+<p>
+  <img src="media/TMT_Farms2.png" alt="Additional farm hut and village map example" width="520">
+</p>
 
 ---
 
 ### 2. **Earth observation data and exposure buffers**
 Earth observation datasets (often rasters) are usually linked to individuals via their home location, sometimes using a **buffer** around the home to capture environmental conditions. The buffer size is important — too small, and you miss relevant exposures; too large, and you dilute the signal. Movement ranges of residents should inform these choices.
 
-- Rattanavong, S., Dubot-Pérès, A., Mayxay, M., Vongsouvath, M., Lee, S.J., et al. (2020). *Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): A retrospective analysis.* **PLOS Negl Trop Dis** 14(5): e0008333. [https://doi.org/10.1371/journal.pntd.0008333](https://doi.org/10.1371/journal.pntd.0008333)  
+- Rattanavong, S., Dubot-Pérès, A., Mayxay, M., Vongsouvath, M., Lee, S.J., et al. (2020). *Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): A retrospective analysis.* **PLOS Negl Trop Dis** 14(5): e0008333. [https://doi.org/10.1371/journal.pntd.0008333](https://doi.org/10.1371/journal.pntd.0008333)
+
+<p>
+  <img src="https://journals.plos.org/plosntds/article/figure/image?size=large&id=10.1371/journal.pntd.0008333.g002" alt="PLOS NTDs JEV/CNS spatial epidemiology figure" width="600">
+</p>
 
 - Roberts, T., Parker, D.M., Bulterys, P.L., Rattanavong, S., Elliott, I., et al. (2021). *A spatio-temporal analysis of scrub typhus and murine typhus in Laos: implications from changing landscapes and climate.* **PLOS Negl Trop Dis** 15(8): e0009685. [https://doi.org/10.1371/journal.pntd.0009685](https://doi.org/10.1371/journal.pntd.0009685)
 
 ---
 
 ### 3. **GPS logger studies**
+<img src="media/GPS_logger.png" alt="GPS logger device" align="right" width="180" style="margin-left:15px;">
+
 Another approach is to measure actual human movement directly using **GPS loggers** in cohort studies. This is logistically complex but provides rich movement data.
 
 - Tun, S.T.T., Min, M.C., Aguas, R. et al. (2023). *Human movement patterns of farmers and forest workers from the Thailand–Myanmar border* [version 2; peer review: 2 approved, 2 approved with reservations]. **Wellcome Open Res** 6:148. [https://doi.org/10.12688/wellcomeopenres.16784.2](https://doi.org/10.12688/wellcomeopenres.16784.2)
+
+<p>
+  <img src="media/GPS%20Loggers.png" alt="Map of GPS tracks and activity spaces" width="600">
+</p>
 
 ---
 
@@ -49,13 +68,18 @@ GPS loggers are great for detailed studies, but they cover few people. To scale 
 
 - Haileselassie, W., Getnet, A., Solomon, H. et al. (2022). *Mobile phone handover data for measuring and analysing human population mobility in Western Ethiopia: implication for malaria disease epidemiology and elimination efforts.* **Malar J** 21, 323. [https://doi.org/10.1186/s12936-022-04337-w](https://doi.org/10.1186/s12936-022-04337-w)
 
+<p>
+  <!-- Stacked (one on top of the other). True overlay isn't reliably supported in GitHub README HTML. -->
+  <img src="https://malariajournal.biomedcentral.com/counter/pdf/10.1186/s12936-022-04337-w/MediaObjects/12936_2022_4337_Fig7_HTML.png" alt="Mobility by time of day vs vector biting (Fig 7)" width="640"><br>
+  <img src="https://malariajournal.biomedcentral.com/counter/pdf/10.1186/s12936-022-04337-w/MediaObjects/12936_2022_4337_Fig12_HTML.png" alt="Spatial patterns/heatmaps (Fig 12)" width="640">
+</p>
+
 ---
 
 ## Planned Additions
 This repository will soon include:
 - **Code examples** for incorporating multiple activity spaces into spatial epidemiology analyses
 - **Maps and photos** illustrating fieldwork examples (farm huts, GPS tracks, etc.)
-
 
 ---
 
