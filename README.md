@@ -2,7 +2,7 @@
 
 This repository hosts code, data workflows, and documentation for research on **activity spaces** — the multiple locations where people spend time and how these spaces influence health outcomes, especially for infectious diseases.  
 
-I began thinking about activity spaces when I was in graduate school learning GIS and spatial analytic approaches, and how to *think spatially* under the mentorship of **Stephen Matthews**. In particular, his work on *spatial polygamy* shaped how I conceptualize people's relationship to place:
+I began thinking about activity spaces when I was in graduate school learning GIS and spatial analytic approaches, and how to *think spatially* under the mentorship of [Stephen Matthews](https://www.geog.psu.edu/directory/stephen-matthews). In particular, his work on *spatial polygamy* shaped how I conceptualize people's relationship to place:
 
 > Matthews, S.A. (2011). *Spatial Polygamy and the Heterogeneity of Place: Studying People and Place via Egocentric Methods.* In: Burton, L., Matthews, S., Leung, M., Kemp, S., Takeuchi, D. (eds) *Communities, Neighborhoods, and Health.* Social Disparities in Health and Health Care, vol 1. Springer, New York, NY. [https://doi.org/10.1007/978-1-4419-7482-2_3](https://doi.org/10.1007/978-1-4419-7482-2_3)
 
